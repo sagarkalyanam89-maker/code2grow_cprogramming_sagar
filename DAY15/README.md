@@ -1,1 +1,2 @@
-
+DAY15:Student Performance Analyzer
+This C program analyzes the performance of students in a class using arrays, loops, and conditionals. It accepts marks for up to 10 students and calculates the class average, highest and lowest marks, and total passed and failed students. Based on their marks, each student is assigned a grade (A+, A, B, C, D, or Fail). Finally, the program displays a detailed summary showing average marks, top and lowest scores, and a grade distribution table for the entire class.
